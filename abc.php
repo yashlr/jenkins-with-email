@@ -1,1 +1,3 @@
-hello this is php
+<? php
+print("hello this is php");
+?>
